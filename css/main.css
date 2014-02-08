@@ -158,3 +158,32 @@ a:visited { color: #a0a; }
 .post pre.terminal code {
   background-color: #333;
 }
+
+a.simple-link {
+  color: #08c;
+  text-decoration: none;
+}
+
+a.simple-link:visited {
+  color: #08c;
+}
+
+a.simple-link:hover {
+  text-decoration: underline;
+}
+
+.avatar {
+  width: 512px;
+  height: 512px;
+}
+
+@media screen and (max-width: 640px) {
+  body {
+    padding: 0 20px;
+  }
+
+  .avatar {
+    width: 512px;
+    height: 512px;
+  }
+}
