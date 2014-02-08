@@ -1,1 +1,27 @@
+# jekyll
 _site
+
+# bundler
+.bundle
+.bin
+/bin
+vendor
+
+# node
+node_modules
+
+#  OSX
+.DS_Store
+
+## stuff from octopress
+.sass-cache
+.gist-cache
+.pygments-cache
+_deploy
+_cache
+
+
+# ctags
+.tags
+.tags_sorted_by_file
+
