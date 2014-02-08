@@ -1,6 +1,6 @@
 # jekyll
 _site
-_posts-hidden
+hidden-posts
 
 # bundler
 .bundle

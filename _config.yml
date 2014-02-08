@@ -1,3 +1,4 @@
 name: Rachel Gold
-markdown: redcarpet
-pygments: true
+markdown: kramdown
+pygments: false
+exclude: ['vendor', 'hidden-posts']
