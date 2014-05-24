@@ -173,7 +173,7 @@ a.simple-link:hover {
 }
 
 .avatar {
-  width: 100%;
+  width: 512px;
   height: auto;
   border-radius: 256px;
   position: relative;
@@ -185,6 +185,10 @@ a.simple-link:hover {
   }
   
   .site {
+    width: 100%;
+  }
+  
+  .avatar {
     width: 100%;
   }
 }
