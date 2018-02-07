@@ -1,4 +1,33 @@
 name: Rachel Gold
-markdown: kramdown
-pygments: false
+
+theme: minima
 exclude: ['vendor', 'hidden-posts']
+
+## Conversion
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+# highlighter: rouge
+# highlighter: pygments
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+exclude:
+  - bin
+  - config.rb
+  - Gemfile
+  - Gemfile.lock
+  - gems
+  - Procfile
+  - Rakefile
+  - README.md
+  - script
+  - vendor

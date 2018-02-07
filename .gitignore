@@ -1,12 +1,22 @@
 # jekyll
-_site
+_site/
 hidden-posts
 
-# bundler
+# vendor files
+/vendor
+/vendor/gems/
+/bin/
+/.bundle/
 .bundle
 .bin
 /bin
-vendor
+
+# caches
+.sass-cache
+.gist-cache
+.pygments-cache
+_deploy
+_cache
 
 # node
 node_modules
@@ -14,15 +24,12 @@ node_modules
 #  OSX
 .DS_Store
 
-## stuff from octopress
-.sass-cache
-.gist-cache
-.pygments-cache
-_deploy
-_cache
-
-
 # ctags
 .tags
 .tags_sorted_by_file
 
+# other garbage
+*.*~
+_release
+*.map
+.jekyll-metadata
