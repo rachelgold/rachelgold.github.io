@@ -199,6 +199,7 @@ a.simple-link:hover {
 }
 
 .small-avatar {
+  margin-left: -64px;
   width: 64px;
   height: auto;
   border-radius: 32px;
