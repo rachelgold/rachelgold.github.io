@@ -31,3 +31,20 @@ exclude:
   - README.md
   - script
   - vendor
+
+include:
+- _stylesheets
+- _javascript
+sass:
+  load_paths:
+    - assets/_scss
+
+# Custom site configuration
+lang: en
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      lang: "en"

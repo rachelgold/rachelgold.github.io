@@ -1,0 +1,14 @@
+{
+  "name": "rachelgold.github.io",
+  "version": "1.0.0",
+  "description": "Rachel's website see http://rachelgold.github.io or http://www.rachelgold.ca",
+  "author": "",
+  "license": "Creative Commons Attribution-NonCommercial 4.0 International License",
+  "bugs": {
+    "url": "https://github.com/rachelgold/rachelgold.github.io/issues"
+  },
+  "homepage": "https://github.com/rachelgold/rachelgold.github.io#readme",
+  "dependencies": {
+    "normalize.css": "^7.0.0"
+  }
+}

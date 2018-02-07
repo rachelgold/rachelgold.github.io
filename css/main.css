@@ -20,18 +20,19 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
-
-h1 { margin-bottom: 1em; }
+  font-size: 100%;
+  margin-bottom: 0em;
+}
+header { margin-bottom: 2em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a         { color: #08c; text-decoration: none; }
+a:hover   { color: #08c; text-decoration: underline; }
+a:visited { color: #08c; }
 
 /*****************************************************************************/
 /*
-/* Home
+/* Writings
 /*
 /*****************************************************************************/
 .posts {
@@ -49,6 +50,15 @@ a:visited { color: #a0a; }
   font-size: 80%;
 }
 
+.section-header {
+  display: inline-block;
+  color: #a00;
+}
+
+h2.section-header {
+  margin-bottom: 1.5em;
+}
+
 /*****************************************************************************/
 /*
 /* Site
@@ -63,34 +73,43 @@ a:visited { color: #a0a; }
   line-height: 1.6em;
 }
 
-.header a {
+.page-header {
   font-weight: bold;
-  text-decoration: none;
+  margin-bottom: 3em;
 }
 
-.title {
+.site-titlename a, .title a {
   display: inline-block;
-  margin-bottom: 2em;
 }
 
-.title a {
+site-titlename a, .title a {
   color: #a00;
 }
 
-.title a:hover {
-  color: #000;
+.section-header {
+  font-size: 150%;
+  color: #dd7777;
 }
 
-.header a.extra {
-  color: #aaa;
-  margin-left: 1em;
+.site-header-breadcrumb {
+  margin-top: 1em;
 }
 
-.header a.extra:hover {
-  color: #000;
+a.site-header-link         { color: #a00; text-decoration: none; }
+a.site-header-link:hover   { color: #a00; text-decoration: underline; }
+a.site-header-link:visited { color: #a00; }
+
+ul.homepage-items {
+  margin-left: 20px;
+  list-style-type: disc;
+}
+
+ul.homepage-items li {
+  margin-bottom: 0.2em;
 }
 
 .meta {
+  margin: 10px 0;
   color: #aaa;
 }
 
@@ -179,15 +198,22 @@ a.simple-link:hover {
   position: relative;
 }
 
+.small-avatar {
+  width: 64px;
+  height: auto;
+  border-radius: 32px;
+  display:inline-block;
+}
+
 @media screen and (max-width: 640px) {
   body {
     padding: 0 20px;
   }
-  
+
   .site {
     width: 100%;
   }
-  
+
   .avatar {
     width: 100%;
   }
