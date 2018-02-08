@@ -102,18 +102,32 @@ site-titlename a, .title a {
   color: #a00;
 }
 
-.section-header {
-  font-size: 150%;
-  color: #dd7777;
-  display: inline-block;
-}
-
 .site-header-breadcrumb {
   margin-top: 1em;
 }
 
+h2.section-header {
+  font-size: 150%;
+}
+
+h3.section-header {
+  font-size: 130%;
+}
+
+h4.section-header {
+  font-size: 110%;
+}
+
+.section-header {
+  color: #dd7777;
+  display: inline-block;
+}
+
 h2.section-header, h3.section-header, h4.section-header {
-  margin-bottom: 1.5em;
+  margin-bottom: 1.2em;
+}
+
+section .section-writings {
 }
 
 .posts {
@@ -147,13 +161,17 @@ h2.section-header, h3.section-header, h4.section-header {
   font-size: 115%;
   text-align: justify;
   width: 42em;
-  margin: 3em auto 2em;
+  margin: 1.2em auto 2em;
   line-height: 1.6em;
+}
+
+h1.title {
+  font-size: 160%;
 }
 
 .page-header {
   font-weight: bold;
-  margin-bottom: 3em;
+  margin-bottom: 1.2em;
 }
 
 a.site-header-link         { color: #a00; text-decoration: none; }
