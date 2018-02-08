@@ -144,8 +144,7 @@ section .section-writings {
 }
 
 .posts span {
-  color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
+  color: #444;
   font-size: 80%;
 }
 
