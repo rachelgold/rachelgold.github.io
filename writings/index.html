@@ -12,13 +12,4 @@ title: Writings
   <h1 class="section-header">Writings</h1>
 </header>
 
-<section>
-  <div class="trek-to-mongolia">
-    <h2 class="section-header">Trek to Mongolia</h2>
-    <ul class="posts">
-      {% for post in site.posts %}
-        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </div>
-</section>
+{% include section-writings.html %}

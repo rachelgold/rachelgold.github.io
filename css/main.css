@@ -1,5 +1,64 @@
 /*****************************************************************************/
 /*
+/* Custom Font Icon for email
+/*
+/*****************************************************************************/
+
+@font-face {
+  font-family: 'andxyz';
+  src:url('fonts/andxyz.eot');
+}
+@font-face {
+  font-family: 'andxyz';
+  src: url(data:application/x-font-woff;charset=utf-8;base64,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) format('woff'),
+     url(data:application/x-font-ttf;charset=utf-8;base64,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) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+  font-family: 'andxyz';
+  content: attr(data-icon);
+  speak: none;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Use the following CSS code if you want to have a class per icon */
+/*
+Instead of a list of all class selectors,
+you can use the generic selector below, but it's slower:
+[class*="icon-"] {
+*/
+.icon-github, .icon-twitter, .icon-email, .icon-resume {
+  font-family: 'andxyz';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+}
+.icon-github:before {
+  content: "\e000";
+}
+.icon-twitter:before {
+  content: "\e001";
+}
+.icon-email:before {
+  content: "\e002";
+}
+.icon-resume:before {
+  content: "\e003";
+}
+
+/*****************************************************************************/
+/*
 /* Common
 /*
 /*****************************************************************************/
@@ -35,6 +94,28 @@ a:visited { color: #08c; }
 /* Writings
 /*
 /*****************************************************************************/
+.site-titlename a, .title a {
+  display: inline-block;
+}
+
+site-titlename a, .title a {
+  color: #a00;
+}
+
+.section-header {
+  font-size: 150%;
+  color: #dd7777;
+  display: inline-block;
+}
+
+.site-header-breadcrumb {
+  margin-top: 1em;
+}
+
+h2.section-header, h3.section-header, h4.section-header {
+  margin-bottom: 1.5em;
+}
+
 .posts {
   list-style-type: none;
   margin-bottom: 2em;
@@ -50,13 +131,10 @@ a:visited { color: #08c; }
   font-size: 80%;
 }
 
-.section-header {
-  display: inline-block;
-  color: #a00;
-}
-
-h2.section-header {
-  margin-bottom: 1.5em;
+.meta {
+  color: #777;
+  font-size: 120%;
+  margin: 10px 0;
 }
 
 /*****************************************************************************/
@@ -78,39 +156,19 @@ h2.section-header {
   margin-bottom: 3em;
 }
 
-.site-titlename a, .title a {
-  display: inline-block;
-}
-
-site-titlename a, .title a {
-  color: #a00;
-}
-
-.section-header {
-  font-size: 150%;
-  color: #dd7777;
-}
-
-.site-header-breadcrumb {
-  margin-top: 1em;
-}
-
 a.site-header-link         { color: #a00; text-decoration: none; }
 a.site-header-link:hover   { color: #a00; text-decoration: underline; }
 a.site-header-link:visited { color: #a00; }
 
 ul.homepage-items {
-  margin-left: 20px;
-  list-style-type: disc;
+  list-style-type: none;
 }
 
 ul.homepage-items li {
   margin-bottom: 0.2em;
 }
 
-.meta {
-  margin: 10px 0;
-  color: #aaa;
+.contact-info {
 }
 
 .footer {
@@ -192,9 +250,10 @@ a.simple-link:hover {
 }
 
 .avatar {
-  width: 512px;
+  margin: 1em 0;
+  width: 256px;
   height: auto;
-  border-radius: 256px;
+  border-radius: 128px;
   position: relative;
 }
 
@@ -204,6 +263,16 @@ a.simple-link:hover {
   height: auto;
   border-radius: 32px;
   display:inline-block;
+}
+
+@media screen and (max-width: 780px) {
+  .small-avatar {
+    margin: auto;
+    width: 32px;
+    height: auto;
+    border-radius: 16px;
+    display:inline-block;
+  }
 }
 
 @media screen and (max-width: 640px) {
