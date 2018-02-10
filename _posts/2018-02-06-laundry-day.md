@@ -17,4 +17,4 @@ The first time I ran the washer it took more than 10 minutes for me to choose a 
 
 The best part of laundering is when the washing machine plays a bit-tune song at the end of the cycle. It lasted about 20 seconds, and it was upbeat and happy. The definition of cute.
 
-Doing my laundry here has taught me that even chores are an adventure in Mongolia. Also, the manufacturers of North American laundry machines should really learn a thing or two from Korean laundry machines. 2-in-1s would be great in small spaces and who in the world doesn't want to hear cheery bit-tune melodies when the laundry is done! Result: Mongolia (or Korea?) 1. Canada 0.
+Doing my laundry here has taught me that even chores are an adventure in Mongolia. Also, the manufacturers of North American laundry machines should really learn a thing or two from Korean laundry machines. 2-in-1s would be great in small spaces and who in the world doesn't want to hear cheery bit-tune melodies when the laundry is done? Result: Mongolia (or Korea) 1. Canada 0.
