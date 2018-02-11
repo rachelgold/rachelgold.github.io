@@ -3,8 +3,6 @@ layout: post
 title: Extreme Cold - Part 1
 ---
 
-The Extreme Cold - Part 1
-
 When I first heard about the trek opportunity to Mongolia, I was intrigued at the thought of working and living abroad in a country I knew very little about. So I started researching. I found the answer to basic questions such as
 
   - Where is Mongolia? Answer: it's north of China and borders with Russia and China, and is land-locked
