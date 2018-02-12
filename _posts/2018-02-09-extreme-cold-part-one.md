@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Extreme Cold - Part 1
+comments: true
 ---
 
 When I first heard about the trek opportunity to Mongolia, I was intrigued at the thought of working and living abroad in a country I knew very little about. So I started researching. I found the answer to basic questions such as
