@@ -154,20 +154,20 @@ section .section-writings {
   margin: 10px 0;
 }
 
-.post-navigation {
+.page-navigation {
   display: block;
   width: auto;
   overflow: hidden;
 }
 
-.PageNavigation a {
+.page-navigation a {
   display: block;
   width: 50%;
   float: left;
   margin: 1em 0;
 }
 
-.post-navigation .next {
+.page-navigation .prev {
   text-align: right;
 }
 
