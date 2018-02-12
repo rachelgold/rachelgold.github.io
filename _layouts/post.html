@@ -21,10 +21,10 @@ layout: default
 
 <div class="page-navigation">
   {% if page.previous.url %}
-    <a class="prev" href="{{page.previous.url}}">{{page.previous.date}} &raquo;</a>
+    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.date | date_to_string}} </a>
   {% endif %}
   {% if page.next.url %}
-      <a class="next" href="{{page.next.url}}">{{page.next.date}} &raquo;</a>
+      <a class="next" href="{{page.next.url}}">{{page.next.date | date_to_string}} &raquo;</a>
     {% endif %}
 </div>
 
