@@ -160,6 +160,13 @@ section .section-writings {
   overflow: hidden;
 }
 
+.PageNavigation a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
 .post-navigation .next {
   text-align: right;
 }
