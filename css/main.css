@@ -154,6 +154,17 @@ section .section-writings {
   margin: 10px 0;
 }
 
+.post-navigation {
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.post-navigation .next {
+  text-align: right;
+}
+
+
 /*****************************************************************************/
 /*
 /* Site
