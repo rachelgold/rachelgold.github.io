@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Laundry Day
+comments: true
 ---
 
 Swoosh. Gurgle. Pause. Splash. Spin. Pause. Whoosh. Whir. That’s the sounds I hear from the laundry machine as I write this post. This is my third time doing laundry in UB. By now, I’ve become somewhat accustomed to how the machine works. It was one of the first appliances I looked at when I first arrived at the apartment. Probably because it’s in the room closest to the front door–the washroom. It was immediately clear that the controls were not in English. The only English on the machine was “Samsung”.

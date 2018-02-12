@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Living Situation
+comments: true
 ---
 
 Been a while. I had been hoping to write everyday. My plan has fallen into disarray. It's easy to fall off course when there's so many people and things to keep up with. Relationships. Family. Friends. New Friends. Laundry. Groceries. Cooking. Working. Television. Netflix. Reading. I could go on. Needless to say, I am enjoying my stay here in Mongolia and learning everyday.

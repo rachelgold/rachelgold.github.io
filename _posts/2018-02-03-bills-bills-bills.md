@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bills Bills Bills
+comments: true
 ---
 
 In the first week I arrived in Ulaanbaatar I learned about the Mongolian economy. One of the things that came as a surprise was their currency.

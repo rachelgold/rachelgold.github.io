@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Journey Not the Arrival Matters
+comments: true
 ---
 
 It's 4:30am. I think this may be a symptom of jetlag, or maybe I didn't eat enough for dinner and my tummy wanted more food. Either way, I'm awake far too early in the morning for my liking. I arrived in Ulaanbataar on Friday January 5th at 11:00pm. It was a 1 stop journey from Toronto-to-Beijing-to-Ulaanbataar. 13 hours for the first leg. 2.5 hours for the second leg. Both flights were great -- lots of food and drinks, enjoyable seat neighbours, not much turbulence. It was the Bejing airport that spun me around.

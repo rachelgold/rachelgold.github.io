@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to Mongolia
+comments: true
 ---
 
 It's been almost a month since I've been living in Ulaanbaatar, Mongolia and it feels like I arrived here yesterday. That feeling of flying time is due in large part to my new colleagues and friends making me feel so welcome.

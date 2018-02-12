@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Beginning
+comments: true
 ---
 
 My flight to Mongolia was booked on December 28th, 2017. Exactly one week later I was on a plane to a country I've never been to nor considered visiting for vacation. The day before jumping on a plane, I still didn't know where I would be residing. I only knew that two people from my firm would pick me up at the airport and I knew each of their names. Essentially, I was headed into the complete unknown.

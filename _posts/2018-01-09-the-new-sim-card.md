@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The New Sim Card
+comments: true
 ---
 
 I and all my luggage made it to UlaanBaatar in one piece. FYI, people call it UB for short (gotta stay up on the lingo). My new colleagues were probably thrilled to see me walk out of the arrivals gate. Who wants to pick up a stranger at 11pm on a Friday night? That is dedication to the job, that's for sure. I have to imagine that they probably didn't mind that much because they had the COO's SUV complete with a driver to take us to my new place. I was surprised at this level of generosity by the firm and also so grateful. After reachig the end of a long journey, I was ready for a nice long rest in a horizontal, rather than vertical, position. I cannot reach that in rem type of sleep when I fall asleep in a chair. I think I'm in the majority of people on that one.
