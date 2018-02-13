@@ -1,6 +1,5 @@
 name: Rachel Gold
 
-theme: minima
 exclude: ['vendor', 'hidden-posts']
 
 ## Conversion
