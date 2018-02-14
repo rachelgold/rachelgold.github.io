@@ -12,6 +12,9 @@ layout: default
   <h1 class="section-header">{{ page.title }}</h1>
   <div class="meta">
     {{ page.date | date_to_string }}
+    {% if page.comments %}
+      • <a href="https://www.rachelgold.ca{{ page.url }}#disqus_thread">0 Comments</a>
+    {% endif %}
   </div>
 </header>
 
@@ -32,3 +35,5 @@ layout: default
     </a>
   {% endif %}
 </div>
+
+{% include disqus.html %}
