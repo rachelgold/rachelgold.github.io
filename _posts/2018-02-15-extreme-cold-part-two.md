@@ -4,8 +4,6 @@ title: Extreme Cold - Part 2
 comments: true
 ---
 
-Extreme Cold - Part Two
-
 Wow, I’m over the halfway mark for my stay in Mongolia. Tomorrow is Tsagaan Sar, which is the Mongolian Lunar New Year. It is the biggest annual holiday here. That means the office is closed tomorrow (!). Also, the big, looming deadline for filing personal tax returns has finally come and gone. While working up to this deadline, I’ve been hearing the same thing from various people over and over, “the weather will get better after Tsagaan Sar”. Sure. I’ll believe it when I feel it.
 
 I have learned from my colleagues that Mongolians measure the winter in 9 periods of 9 days. I think it starts around the winter solistice and continues to end of March. The people who follow this were adamant that the coldest periods are the 3rd and 4th, which apparently happened around the last two weeks of January. Looking back, those two particular weeks were in fact the coldest  weeks of the winter so far.
