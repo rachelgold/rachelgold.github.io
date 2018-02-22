@@ -26,7 +26,7 @@ Something in me snapped and all I could focus on was going inside, immediately. 
 
 While my hands were able to regain feeling and warmth in the course of exploring the statute, my feet continued to be in recovery mode even after we were back in the car headed to the lodge. I don’t remember ever feeling that cold in my life.
 
-After settling in to the lodge, my roommate, Laurel, invited me to go on a short hike before the sun went down and the bitterest of the cold set in. Despite my last outdoor experience, I couldn’t resist a hike.
+After settling in to the lodge, my roommate, Laurel, invited me to go on a short hike before the sun went down and the bitterest of the cold set in. Despite my last outdoor experience, I couldn’t resist saying yes.
 
 This time I bundled up with way more layers and newly-bought snow pants (it was the only piece that I forgot to bring from home). We ended up hiking up a hill. It was probably 15 minutes of upward steep-incline, climbing on firm snow to reach the top. We made it in time to catch a glimpse of the setting sun.
 
