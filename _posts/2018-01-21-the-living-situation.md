@@ -10,7 +10,7 @@ To begin with, I want to talk about my apartment. It is very spacious. It has tw
 
 I'm grateful for the firm's thoughtfulness and care. I found out after I arrived that they were thinking of putting me up in an appartment that was further away from the office and apparently was not in as safe an area. It was the last minute when they secured this place. That's why my colleagues could only give the office address when I asked over and over again. It all makes sense now!
 
-###Apartment Pros
+### Apartment Pros
 
 - It is humongous (anyone is welcome to come visit! A family of 4 could get by here without problems. I guess apartments are normally this large because Mongolia is so sparsely populated.)
 
@@ -28,7 +28,7 @@ I'm grateful for the firm's thoughtfulness and care. I found out after I arrived
 
 - Most importantly, there is wifi. And that's all there is to say about that.
 
-###Apartment Cons
+### Apartment Cons
 
 - I'm all by myself in such a big place. If I don't keep myself occupied, I think about how quiet and empty it is and start to feel homesick. So far I'm coping okay. Some days are harder than others. When I feel lonely, I reach out to family and friends on my phone and then I feel connected again. I recognize the power of the internet and I am so thankful to be able to feel close to family and friends despite them being hundreds of thousands of kilometers away.
 
