@@ -34,6 +34,4 @@ I’d never imagined that a country would allow both types of cars on the road. 
 
 Did I also mention there is no local train/subway system here? Fortunately, I live close to my office so I walk everyday. But going to a different part of the city in the winter means taking a taxi (which is not really my cup of tea). I truly hope that the Government seriously considers its public transit and invests in its future development, for the sake of the city's exponential population growth and sustainability.
 
-
-
 Overall, I’m glad that I have lived in Ulaanbaatar to experience how another part of the world lives. It has given me a true appreciation of the things I take for granted in Canada.
