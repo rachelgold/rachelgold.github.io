@@ -5,9 +5,11 @@ require 'open-uri'
 versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 
 gem 'github-pages', versions['github-pages']
-gem 'minima' # jekyll theme
 
-group :test do
-  gem "html-proofer"
-  gem "rake"
-end
+# group :test do
+#   gem "html-proofer"
+#   gem "rake"
+# end
+
+# bundle update
+# bundle install
