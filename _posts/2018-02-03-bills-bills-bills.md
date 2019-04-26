@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bills Bills Bills
+categories: [posts]
 comments: true
 ---
 

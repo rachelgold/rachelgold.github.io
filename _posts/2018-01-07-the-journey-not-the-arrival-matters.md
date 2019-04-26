@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Journey Not the Arrival Matters
+categories: [posts]
 comments: true
 ---
 

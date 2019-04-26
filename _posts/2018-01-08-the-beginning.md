@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Beginning
+categories: [posts]
 comments: true
 ---
 

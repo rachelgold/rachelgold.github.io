@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Living Situation
+categories: [posts]
 comments: true
 ---
 

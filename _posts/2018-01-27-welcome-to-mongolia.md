@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to Mongolia
+categories: [posts]
 comments: true
 ---
 

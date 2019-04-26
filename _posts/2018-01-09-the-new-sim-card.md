@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The New Sim Card
+categories: [posts]
 comments: true
 ---
 

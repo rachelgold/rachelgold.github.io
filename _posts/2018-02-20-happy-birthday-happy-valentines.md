@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Happy Birthday-Happy Valentines
+categories: [posts]
 comments: true
 ---
 

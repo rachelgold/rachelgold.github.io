@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Extreme Cold - Part 1
+categories: [posts]
 comments: true
 ---
 

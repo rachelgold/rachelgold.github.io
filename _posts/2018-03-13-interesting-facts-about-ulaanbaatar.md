@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Interesting Facts About Ulaanbaatar
+categories: [posts]
 comments: true
 ---
 

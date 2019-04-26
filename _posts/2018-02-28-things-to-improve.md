@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Things to Improve
+categories: [posts]
 comments: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Laundry Day
+categories: [posts]
 comments: true
 ---
 
