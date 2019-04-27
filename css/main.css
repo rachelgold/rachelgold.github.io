@@ -237,6 +237,11 @@ ul.homepage-items li {
   border: 0;
 }
 
+img.full-width-image {
+  width: 100%;
+  height: auto;
+}
+
 /*****************************************************************************/
 /*
 /* Posts
