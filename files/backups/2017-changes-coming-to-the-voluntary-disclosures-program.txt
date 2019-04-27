@@ -1,0 +1,64 @@
+CHANGES COMING TO THE VOLUNTARY DISCLOSURES PROGRAM
+
+April 04, 2017
+Rachel Gold
+
+In light of the federal government’s increasing scrutiny of tax evasion and aggressive tax avoidance by Canadians, the Canada Revenue Agency (CRA) has signalled the tightening-up of its Voluntary Disclosures Program (VDP). Hot on the heels of Budget 2016, in which the government proposed to invest $444.4 million in CRA over five years to strengthen tax compliance and combat tax evasion and avoidance,[1] the Minister of National Revenue established the Offshore Compliance Advisory Committee.[2] The Committee’s mandate is to provide advice on administrative strategies to deal with offshore compliance. On December 8, 2016, the Committee released its first report, which focused exclusively on the VDP.[3]
+
+The Minister and the CRA stated in late 2016 that they will leverage the recommendations in the report made by the Offshore Compliance Advisory Committee to evaluate the scope of the VDP, and the CRA has stated it plans to communicate changes to the program in late 2017.[4] The way the Minister sees it, “[t]here are still too many wealthy Canadians who continue to find ways to not pay what they owe. This is not fair and robs all Canadians of the resources necessary to support the valuable social programs available in this country.”[5]
+
+Before considering the Committee’s recommendations, it is worthwhile to briefly outline the current framework of the VDP.[6] The VDP seeks to promote compliance with Canadian tax laws by granting relief from penalties and prosecution, and partial relief from interest that otherwise would be assessed, to a taxpayer who voluntarily discloses and corrects past tax errors or omissions. The Minister has discretion to grant such relief under subsection 220(3.1) of the Income Tax Act (Canada).[7] It provides that the Minister may, on application by a taxpayer, waive or cancel all or part of any penalty or interest otherwise payable by the taxpayer during the 10 calendar years preceding the year in which the request is made. The taxpayer’s tax liability, however, must be paid.
+
+A taxpayer’s disclosure will be accepted into the VDP if it meets the following four conditions:
+
+The disclosure is voluntary (i.e. disclosure is made before the CRA initiates an enforcement action or the taxpayer becomes aware of an enforcement action such as an audit, a request to file a return, and requirements issued to entities related to the taxpayer).
+The disclosure is complete (i.e. the disclosure must provide full and accurate facts and documentation for the relevant years).
+The disclosure involves a potential penalty (e.g. late filing penalty, failure to remit penalty, gross negligence penalty).
+The information being disclosed is at least one year past due.[8]
+The current VDP program is predictable and consistent in that it makes no distinction based on the type (an innocent oversight or deliberate action), scale (small or large amount of tax), or geographic location (offshore or domestic) of the taxpayer’s non-compliance. Moreover, the general rule is that a taxpayer can use the VDP only once. CRA may consider a second disclosure from the same taxpayer where the surrounding circumstances are beyond the taxpayer’s control, but it is a case-by-case determination and acceptance of second disclosures are rare.
+
+The Committee’s 10-page report begins by stating the VDP should strike a balance between fairness and revenue collection, and that a well-designed VDP should do so at a moderate administrative cost and operate consistently across the country. The Committee also expressed concern that compliant, law-abiding taxpayers must feel that the VDP is fair so that they will continue to respect the tax system. From this perspective of finding the right balance between raising revenue and fairness, the Committee made the following recommendations:
+
+Relief from penalties and interest should be reduced in certain cases, including where the taxpayer is a “sophisticated taxpayer”[9], large amounts of tax are avoided, active efforts were made to avoid detection including offshore vehicles, and where there was deliberate carelessness amounting to gross negligence.
+The general rule that taxpayers cannot use the VDP more than once should be emphasized and the CRA should verify a taxpayer’s past participation in the VDP.
+Participants in the VDP should be required to pay the estimated tax and interest payable or provide security within 90 days of the effective date of disclosure except in extraordinary circumstances.
+Reasonable accommodation should be made for incomplete, but otherwise good-faith, legitimate disclosures (e.g. a taxpayer inherits a deceased relative’s undisclosed offshore account).
+The VDP should not be available to multinational enterprises seeking relief in respect of related-party transfer pricing issues, including transfer pricing penalties.
+Participants in the VDP should be required to identify the advisers who assisted with non-compliance.
+Higher-level internal sign off should be required in cases involving substantial amounts of taxes, complex arrangements, new issues of law, or high profile taxpayers.
+Procedures should be introduced to ensure that large/complex files or aggressive tax planning files are reviewed by specialists before acceptance into the VDP.
+Participants in the VDP should not be allowed to object to disclosure agreements once they are made. However, these participants should retain their right to object to other issues in their tax returns or improper adjustments arising from the VDP.
+Taxpayers who have reported and paid tax on offshore income in their tax return, but failed to file a T1135, should not be forced to make a voluntary disclosure to file the T1135. A better approach is for the CRA to examine the returns of the taxpayers who have not filed the T1135 to verify their compliance.
+Offshore and domestic non-compliance should be treated the same, other than the reduced relief from penalties and interest as set out in recommendation #1.[10]
+The Minister welcomed the proposed overall narrowing of the VDP in order to ensure fairness of the tax system, particularly the changes involving limiting repeat use by sophisticated taxpayers and restricting the circumstances in which the VDP is available.[11] Based on the Minister’s comments, it appears likely the recommendation for one-time use of the VDP will be implemented.
+
+It is unfortunate that the tone of the report implies that taxpayers are deliberately not complying with their income tax obligations. Our experience indicates that many voluntary disclosures are made because of errors and oversight and not from deliberate intentions to avoid taxes. Let us consider the other recommendations. It is concerning that many of them, if implemented, could very well involve significant administrative costs and potentially could create inconsistent treatment of taxpayers across the country because of their subjective nature. The recommendations create more questions than answers. Who would qualify as a sophisticated taxpayer? How would a case be determined to be large/complex or one involving aggressive tax planning? How long would the processing time be for a disclosure that is subject to “thorough review” to determine if relief should be reduced? Is a program that seems to presume that the participants are tax evaders a fair program? An approach that potentially creates inconsistent treatment will result in uncertainty and may discourage taxpayers from coming forward, many of whom are seeking to correct innocent errors.
+
+The 2004 Auditor General Report[12] should be considered when CRA evaluates the current VDP. In that report, the Auditor General criticized the VDP for its inconsistent treatment of taxpayers and, following the report, the VDP underwent significant changes to make it what it is today. Only time will tell, but hopefully the upcoming changes continue the principles that make it attractive for non-compliant taxpayers to disclose past errors or omissions, while ensuring that compliant taxpayers feel that the program is fair to all.
+
+ABOUT THE AUTHOR
+Rachel Gold is a tax associate at KPMG Law LLP. Rachel is developing a broad practice that covers tax dispute resolution and tax planning.
+
+[1] Canada, Department of Finance, 2016 Budget, Budget Plan, March 22, 2016, 216.
+
+[2] The Committee was established in April 2016 by the Minister. The Chair of the Committee is Dr. Colin Campbell, an Associate Professor of Law at Western University. The Vice-Chair is Kimberly Brooks, Associate Professor at Schulich School of Law at Dalhousie University. The other members of the Committee include Catherine Brown, Professor of Law at the University of Calgary; Larry Chapman, former executive director of the Canadian Tax Foundation; and Dr. Daniel B. Thornton, Professor in Accounting at Smith School of Business at Queens University.
+
+[3] Offshore Compliance Advisory Committee, “Report on the Voluntary Disclosures Program”, dated 2016, online: <http://www.cra-arc.gc.ca/gncy/ocac-ccoe/menu-eng.html>.
+
+[4] CRA, News Release, “Minister Lebouthillier welcomes the Recommendations in the Offshore Compliance Advisory Committee's Report”, dated December 8, 2016, online: <http://www.news.gc.ca/web/article-en.do?nid=1167309>.
+
+[5] Ibid.
+
+[6] The VDP is set out in CRA, IC00-1R5, “Voluntary Disclosures Program”, dated January 2017, online: <http://www.cra-arc.gc.ca/E/pub/tp/ic00-1r5/ic00-1r5-e.pdf>. The circular was updated in January 2017. However, the changes were not substantive in nature. Changes were made to the office where VDP applications are filed, contact numbers, and website links.
+
+[7] R.S.C., 1985, c. 1 (5th Supp.), as amended to the date hereof, online: <http://www.laws-lois.justice.gc.ca/eng/acts/I-3.3>.
+
+[8] Information that is less than one year past due may be included where the disclosure also includes information that is one year past due.
+
+[9] The report does not define or explain what is meant by the term “sophisticated taxpayer.”
+
+[10] It is not clear what is meant by the exception for less generous relief because less generous relief could apply to domestic and offshore non-compliance.
+
+[11] Supra note 4.
+
+[12] Office of the Auditor General of Canada, 2004 Report of the Auditor General of Canada, (Chapter 6: Canada Revenue Agency—Resolving Disputes and Encouraging Voluntary Disclosures) online: <http://www.oag-bvg.gc.ca/internet/docs/20041106ce.pdf>.
