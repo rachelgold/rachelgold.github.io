@@ -1,7 +1,5 @@
 name: Rachel Gold
 
-exclude: ['vendor', 'hidden-posts']
-
 ## Conversion
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
@@ -9,31 +7,16 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-# highlighter: rouge
-# highlighter: pygments
 
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
-  - jemoji
-
-exclude:
-  - bin
-  - config.rb
-  - Gemfile
-  - Gemfile.lock
-  - gems
-  - Procfile
-  - Rakefile
-  - README.md
-  - script
-  - vendor
 
 include:
-- _stylesheets
-- _javascript
+  - _stylesheets
+  - _javascript
+
 sass:
   load_paths:
     - assets/_scss
@@ -42,8 +25,22 @@ sass:
 lang: en
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       lang: "en"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Procfile
+  - README.md
+  - Rakefile
+  - bin
+  - config.rb
+  - gems
+  - hidden-posts
+  - script
+  - vendor
+  - mise.toml
+  - package.json
