@@ -1,12 +1,10 @@
 ---
-title: a new beginning
-description: ""
-date: 2026-04-18T23:26:15.371Z
-preview: /images/sherbaniak-writers-award-2017.jpg
-tags: []
+layout: post
+title: A New Beginning
+published: true
 categories:
     - posts
-draft: true
+comments: true
 ---
 
-This is my latest draft
+This is my latest unpublished post. Trying out front matter cms.
