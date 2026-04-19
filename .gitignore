@@ -1,9 +1,13 @@
 # jekyll
 _site/
 hidden-posts
+.jekyll-metadata
 
 # frontmatter cms
 .frontmatter/**
+
+# vscode
+.vscode/
 
 # vendor files
 /vendor
@@ -26,13 +30,3 @@ node_modules
 
 #  OSX
 .DS_Store
-
-# ctags
-.tags
-.tags_sorted_by_file
-
-# other garbage
-*.*~
-_release
-*.map
-.jekyll-metadata

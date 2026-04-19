@@ -7,29 +7,21 @@
       "previewPath": null,
       "fields": [
         {
+          "title": "layout",
+          "name": "layout",
+          "type": "string",
+          "default": "post"
+        },
+        {
           "title": "title",
           "name": "title",
           "type": "string"
         },
         {
-          "title": "description",
-          "name": "description",
-          "type": "string"
-        },
-        {
-          "title": "date",
-          "name": "date",
-          "type": "datetime"
-        },
-        {
-          "title": "preview",
-          "name": "preview",
-          "type": "string"
-        },
-        {
-          "title": "tags",
-          "name": "tags",
-          "type": "tags"
+          "title": "published",
+          "name": "published",
+          "type": "boolean",
+          "default": false
         },
         {
           "title": "categories",
@@ -37,9 +29,10 @@
           "type": "categories"
         },
         {
-          "title": "draft",
-          "name": "draft",
-          "type": "draft"
+          "title": "comments",
+          "name": "comments",
+          "type": "boolean",
+          "default": true
         }
       ]
     }
@@ -60,5 +53,8 @@
       "path": "[[workspace]]/_posts/articles"
     }
   ],
-  "frontMatter.git.enabled": true
+  "frontMatter.git.enabled": false,
+  "frontMatter.website.host": "https://www.rachelgold.ca/",
+  "frontMatter.dashboard.openOnStart": true,
+  "frontMatter.panel.openOnSupportedFile": true
 }

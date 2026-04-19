@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Four Days in Hong Kong
-categories: [posts]
+published: false
+categories:
+    - posts
 comments: true
 ---
 
-Test
+Testing
